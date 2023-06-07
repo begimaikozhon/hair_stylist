@@ -440,13 +440,6 @@ class HairStylist extends StatelessWidget {
                         ),
                       ),
                     ),
-                  ],
-                ),
-                const SizedBox(height: 30),
-                Wrap(
-                  runSpacing: 10,
-                  spacing: 10,
-                  children: [
                     Container(
                       width: 160,
                       height: 40,
@@ -480,7 +473,7 @@ class HairStylist extends StatelessWidget {
                       ),
                     ),
                   ],
-                )
+                ),
               ],
             ),
           ),
